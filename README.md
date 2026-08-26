@@ -16,14 +16,17 @@
 
 ## About Me
 
-I am an undergraduate student specializing in Machine Learning, Artificial Intelligence, Mathematics, and Web Development. My focus is on building smart, scalable applications and designing robust software architectures.
+Undergraduate student specializing in Machine Learning, Artificial Intelligence, Mathematics, and Web Development, with a focus on building intelligent, scalable applications and robust software architectures.
 
-- Currently developing security diagnostics engines and intelligent companions.
-- Focused on engineering reliable software systems from backend logic to responsive interfaces.
+- Developing security diagnostics engines and intelligent companions.
+- Engineering reliable software systems from backend logic to responsive interfaces.
 - Experienced in organization, coordination, and student leadership roles.
 - Interested in the mathematical foundations of machine learning models.
-- Passionate about Quantum Trading and Quantitative Finance
+- Passionate about Quantum Trading and Quantitative Finance.
 
+## Education
+
+- **B.Tech in Artificial Intelligence and Machine Learning** — Reva University
 
 ## Technical Skills
 
@@ -47,7 +50,7 @@ I am an undergraduate student specializing in Machine Learning, Artificial Intel
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
-### Backend, AI & Devops
+### Backend, AI & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/EasyOCR-4A90E2?style=flat-square&logo=read-the-docs&logoColor=white" alt="EasyOCR" />
@@ -61,7 +64,22 @@ I am an undergraduate student specializing in Machine Learning, Artificial Intel
 
 ## Selected Projects
 
-### [SentinelX Cyber Twin™](https://github.com/ys8619984-code/SentinelX-CyberTwin)
+### [Yugēn](https://github.com/ys8619984-code)
+> **Autonomous AI Surveillance Rover — End-to-end distributed architecture for real-time surveillance and threat detection**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-Hardware-blue?style=flat-square" alt="ESP32" />
+  <img src="https://img.shields.io/badge/YOLOv8-Computer_Vision-orange?style=flat-square" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/Computer_Vision-AI-red?style=flat-square" alt="CV" />
+  <img src="https://img.shields.io/badge/WebSockets-Protocol-teal?style=flat-square" alt="WebSockets" />
+</p>
+
+- **Threat Detection**: Implemented computer vision (YOLOv8) and biometric threat detection.
+- **Edge Surveillance**: Achieves professional-grade security monitoring with low-latency edge processing.
+
+---
+
+### [SentinelX Cyber Twin](https://github.com/ys8619984-code/SentinelX-CyberTwin)
 > **AI-powered digital threat intelligence and personal cybersecurity companion.**
 
 <p align="left">
@@ -71,7 +89,7 @@ I am an undergraduate student specializing in Machine Learning, Artificial Intel
   <img src="https://img.shields.io/badge/EasyOCR-OCR-orange?style=flat-square" alt="EasyOCR" />
 </p>
 
-- **SOC Telemetry Dashboard**: Displays real-time metrics, Weekly Threat Trends, and Category vectors using Recharts.
+- **SOC Telemetry Dashboard**: Displays real-time metrics, weekly threat trends, and category vectors using Recharts.
 - **Multi-Scanner Workspace**: Dissects URLs, parses screenshot scam messages (SMS, WhatsApp, Email) using EasyOCR, and decodes malicious QR redirect routes.
 - **AI Cyber Twin DNA**: Builds user vulnerability indicators and predicts threat vectors based on historical scan telemetry.
 - **Attack Simulator & AI Mentor**: Interactive flowcharts outlining lateral breach movements, paired with a Gemini-powered chatbot companion for custom remediation instructions.
@@ -87,7 +105,7 @@ I am an undergraduate student specializing in Machine Learning, Artificial Intel
   <img src="https://img.shields.io/badge/Docker-Blueprint-teal?style=flat-square&logo=docker" alt="Docker" />
 </p>
 
-- **Log Ingestion & Filtering**: Screens incoming server traffic logs using custom heuristic rules to isolate high-priority anomalies (such as brute force patterns).
+- **Log Ingestion & Filtering**: Screens incoming server traffic logs using custom heuristic rules to isolate high-priority anomalies such as brute-force patterns.
 - **Incident Playbook Generator**: Automatically compiles detailed playbooks containing technical threat markers, indicator logs, and executable firewall mitigation scripts.
 - **Microservice Structure**: Containerized configurations designed for isolated and reliable server deployments.
 
@@ -102,8 +120,8 @@ I am an undergraduate student specializing in Machine Learning, Artificial Intel
   <img src="https://img.shields.io/badge/Streamlit-Dashboard-red?style=flat-square&logo=streamlit" alt="Streamlit" />
 </p>
 
-- **Simulator Engine (`sre_env.py`)**: Simulates server outages (such as crypto-miner CPU spikes) inside a strict State-Action-Reward RL cycle.
-- **Action-Space Debugging**: Agents run terminal commands (`check_metrics`, `list_processes`, `kill_process`) proxy-connected to the environment to diagnose root causes without human intervention.
+- **Simulator Engine (sre_env.py)**: Simulates server outages such as crypto-miner CPU spikes inside a strict State–Action–Reward RL cycle.
+- **Action-Space Debugging**: Agents run terminal commands such as check_metrics, list_processes, and kill_process to diagnose root causes without human intervention.
 - **Telemetry UI**: Real-time Streamlit command center visualizing observations, rewards, and the agent's incident remediation timeline.
 
 ---
@@ -121,22 +139,25 @@ I am an undergraduate student specializing in Machine Learning, Artificial Intel
 
 ---
 
-## Professional Experience & Leadership
+## Experience & Leadership
 
 ### Secretary
-**IEEE TEMS  / REVA University** | *09 April,2026/Present*
-- Planned and execute 11 technical workshops, hackathons, and skill-building sessions for 650+ students.
-- Oversaw budgeting, logistics, and cross-functional team coordination for all society events.
+**IEEE TEMS / REVA University** | *09 April 2026 – Present*
+- Planned and executed technical workshops, hackathons, and skill-building sessions for students.
+- Oversaw budgeting, logistics, and cross-functional team coordination for society events.
 - Managed membership drives, technical committees, and engagement pipelines for the society.
 
-
-### Technology & Digital Operations Intern 
-**OptCELL GLOBAL** | *01 December,2025/16 February,206*
-- Implemented 15+ AI agents to automate CRM workflows, data entry, and repetitive sales operations.
-- Built an automated lead scoring model using ML to prioritize high-intent prospects, improving conversion rates.
+### Technology & Digital Operations Intern
+**OptCELL GLOBAL** | *01 December 2025 – 16 February 2026*
+- Implemented AI agents to automate CRM workflows, data entry, and repetitive sales operations.
 - Created an intelligent chatbot for instant customer support, reducing response times by 60%.
 - Engineered a centralized data dashboard to visualize KPIs and team performance for management.
 
+---
+
+## Professional Interests
+
+Artificial Intelligence & Machine Learning • Cybersecurity • AI Agents • Software Engineering • Quantitative Finance • Quantum Trading • Mathematical Foundations of ML
 
 ---
 
