@@ -1,4 +1,4 @@
-# Yash Soni
+Yash Soni
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-soni-b3b057371">
